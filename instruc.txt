@@ -1,0 +1,49 @@
+﻿INSTRUÇÕES PARA INSTALAR O SCRIPT RP-TOOLKIT (apenas para os postos Linux das lojas RP)
+
+
+
+1 - Copiar os ficheiros "rptoolkit.desktop", "RPToolkit.py" e rptoolkit.png" para a pasta genuser
+
+
+2 - Dentro da pasta "genuser" clicar com o botão direito e escolher a opção "Abrir Terminal aqui"
+
+
+3 - No terminal escrever o seguinte comando e enter no fim: chmod +x rptoolkit.desktop
+3.1 - Após esta operação o ficheiro tem agora o logo associado e passa a ter o nome "RPToolkit.py"	  
+
+
+4 - Ainda no terminal digitar o seguinte comando, seguido de enter no fim: chmod +x RPToolkit.py
+
+
+5 - Sair do terminal
+
+
+6 - Arrastar o ficheiro "RPToolkit.py" que tem o logo para a barra de tarefas que se encontra na parte superior do ecra
+
+
+7 - Clicar em Criar lançador
+
+
+8 - Clicar com o botão direito sobre o icone e escolher "Propriedades"
+
+
+9 - No separador "Geral" clicar no icone de editar  (pequeno desenho de um lapis e uma folha)
+
+
+10 - No campo "Comando" colocar o seguinte caminho: /home/genuser/RPToolkit.py
+
+
+11 - No campo "Diretório de trabalho" colocar o seguinte caminho: /home/genuser
+
+
+12 - No campo Ícone clicar onde diz "sem icone" e navegar até à pasta genuser. Depois selecionar o ficheiro "rptoolkit.png"
+
+
+13 - No campo "Opções" certifique-se que seleciona a opção "Executar no terminal"
+
+
+14 - Clicar em "Gravar" e por fim em "Fechar"
+
+
+15 - Agora está pronto para ser utilizado
+

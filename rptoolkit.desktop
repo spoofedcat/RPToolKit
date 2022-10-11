@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=RPToolkit.py
+Comment=RPToolkit [open source]
+Exec=/home/genuser/RPToolkit.py
+Icon=/home/genuser/rptoolkit.png
+Terminal=true
+Type=Application
+
